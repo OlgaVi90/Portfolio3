@@ -16,4 +16,4 @@
 
 Стать **Java-разработчиком**
 
-![фото](https://drive.google.com/file/d/17aTUASHMGCbo7AyCwH6i233Dg1tV-pOY/view?usp=drive_link)
+![alt text](photo_2024-12-15_14-24-40.jpg)
