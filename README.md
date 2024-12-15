@@ -16,5 +16,5 @@
 
 Стать **Java-разработчиком**
 
-https://raw.githubusercontent.com/OlgaVi90/Portfolio-2/refs/heads/main/photo_2024-12-14_13-19-21%20(2).jpg
+![фото] (https://raw.githubusercontent.com/OlgaVi90/Portfolio-2/refs/heads/main/photo_2024-12-14_13-19-21%20(2).jpg)
 
